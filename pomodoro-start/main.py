@@ -4,7 +4,7 @@ import math
 
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
-RED = "#e7305b"
+RED = "#e7305a"
 GREEN = "#54bf6f"
 YELLOW = '#f0ebad'
 FONT_NAME = "Courier"
